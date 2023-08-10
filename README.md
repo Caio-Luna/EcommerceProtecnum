@@ -10,10 +10,12 @@ E-commerce da empresa Protecnum
 
 
 ## Description
-E-commerce para a empresa Protecnum desenvolvido com a tecnologia [wordpress ](https://br.wordpress.org/) [woocommerce ](https://woocommerce.com/). Um e-commerce simples com um layout agradável.
+E-commerce para a empresa Protecnum desenvolvido com a tecnologia [WordPress ](https://br.wordpress.org/) e [WooCommerce ](https://woocommerce.com/). Um e-commerce simples com um layout agradável.
 
 
 ## Packages
-   * "Wordpress";
+   * "WordPress";
    * "Beaver Build Premium";
-   * "Woocommerce"
+   * "WooCommerce"
+   * "MercadoPago"
+   * "CoinPayments"
